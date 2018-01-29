@@ -1,0 +1,10 @@
+http://www.cs.odu.edu/~mln/pubs/ht-2015/hypertext-2015-temporal-violations.pdf    2184076
+http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-annotations.pdf    622981
+http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-off-topic.pdf    4308768
+http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-stories.pdf    1274604
+http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-profiling.pdf    639001
+http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf    2205546
+http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-temporal-intention.pdf    720476
+http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf    1254605
+http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf    709420
+http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-dictionary.pdf    2350603
